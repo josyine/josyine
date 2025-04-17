@@ -28,11 +28,11 @@ Studied Modules: International Marketing, International Trade, Korean, Spanish, 
 
 ## 🔧 Skills
 
-- **Programming & Data Analysis**: Python, R, Excel  
+- **Programming & Data Analysis**: Python, Excel  
 - **Mathematical Models & Stochastic Processes**  
 - **Risk Management & Actuarial Calculations**  
 - **Machine Learning & Predictive Models**  
-- **Data Visualization**: Matplotlib, Seaborn, Tableau
+- **Data Visualization**: PowerBI, Looker
 
 
 **Data Analytics & Visualization**
