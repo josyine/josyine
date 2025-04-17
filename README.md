@@ -28,13 +28,6 @@ Studied Modules: International Marketing, International Trade, Korean, Spanish, 
 
 ## 🔧 Skills
 
-- **Programming & Data Analysis**: Python, Excel  
-- **Mathematical Models & Stochastic Processes**  
-- **Risk Management & Actuarial Calculations**  
-- **Machine Learning & Predictive Models**  
-- **Data Visualization**: PowerBI, Looker
-
-
 **Data Analytics & Visualization**
 - Exploratory Data Analysis & Advanced Dashboards (Looker Studio, Looker, Power BI)
 - Data Quality Management & Strategic Monitoring (Funnel.io, Accutics, IAS)
