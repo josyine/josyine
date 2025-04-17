@@ -35,7 +35,7 @@ Studied Modules: International Marketing, International Trade, Korean, Spanish, 
 
 
 **Technical & Marketing Tools**
-- Programming: SQL, Python, R, HTML/CSS
+- Programming: SQL, Python, HTML/CSS
 - Digital Marketing: SEO/SEA, Social Media Ads (Google Ads, Facebook Ads, TikTok Ads, Amazon Advertising)
 - Big Data & Cloud Analytics: Google Cloud, New Search Ads 360, Campaign Manager 360
 
