@@ -1,5 +1,5 @@
 ## Hello! I'm Perrine 👋
-I am currently pursuing a **Master’s degree in Innovation Management, Communication & Data Science (IMCDS)** at Université Paris 1 Panthéon-Sorbonne, while working as a Media Data Analyst at Richemont in a work-study program. Passionate about data-driven decision-making and digital strategy, I aspire to specialize in data analytics for marketing and media performance optimization.
+I am currently pursuing a **Master’s degree in Innovation Management, Communication & Data Science (IMCDS)** at Université Paris 1 Panthéon-Sorbonne, while working as a Media Data Analyst at Richemont in a work-study program. Passionate about data-driven decision-making and digital strategy, I aspire to specialize in data analytics.
 
 ## 🎓 Education
 
