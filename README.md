@@ -9,7 +9,7 @@ I am currently working as a **Data & AI Consultant at EY**, where I leverage my 
 - **Master’s in Innovation Management, Communication & Data Science (IMCDS)** – Université Paris 1 Panthéon-Sorbonne (2024 - 2025)  
   *Relevant Coursework: Business Intelligence, Database Management, Web Analytics, Machine Learning, Data Visualization*  
 
-- **Master’s in Marketing & Digital Sales** – IAE Bretagne-Sud (2023 - 2024)  
+- **Master’s in Marketing & Digital Sales** – IAE France (2023 - 2024)  
   *Relevant Coursework: Web Analytics, SEO & SEA, Web Development, Marketing Planning*  
 
 - **Bachelor’s in Applied Foreign Languages (LEA)** – English & Spanish – Université Bordeaux-Montaigne (2020 - 2023)  
