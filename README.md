@@ -1,6 +1,6 @@
 ## Hello! I'm Perrine 👋  
 
-I am currently working as a **Data & Analytics Consultant at EY**, where I leverage my expertise in data analysis, data quality, and visualization to support organizations in transforming and maximizing the value of their data. My background combines strong analytical thinking, business acumen, and a deep understanding of marketing and media ecosystems, particularly within the luxury industry.
+I am currently working as a **Data & AI Consultant at EY**, where I leverage my expertise in data analysis, data quality, and visualization to support organizations in transforming and maximizing the value of their data. My background combines strong analytical thinking, business acumen, and a deep understanding of marketing and media ecosystems, particularly within the luxury industry.
 
 ---
 
@@ -22,7 +22,7 @@ I am currently working as a **Data & Analytics Consultant at EY**, where I lever
 
 ## 💼 Professional Experience  
 
-### **Data & Analytics Consultant – EY** (2025 - Present) – Paris, France  
+### **Data & AI Consultant – EY** (2025 - Present) – Paris, France  
 
 **Client: LVMH Beauty Tech**  
 - Led the migration of media dashboards from Datorama to Power BI  
