@@ -1,63 +1,100 @@
-## Hello! I'm Perrine 👋
-I am currently pursuing a **Master’s degree in Innovation Management, Communication & Data Science (IMCDS)** at Université Paris 1 Panthéon-Sorbonne, while working as a Media Data Analyst at Richemont in a work-study program. Passionate about data-driven decision-making and digital strategy, I aspire to specialize in data analytics.
+## Hello! I'm Perrine 👋  
 
-## 🎓 Education
+I am currently working as a **Data & Analytics Consultant at EY**, where I leverage my expertise in data analysis, data quality, and visualization to support organizations in transforming and maximizing the value of their data. My background combines strong analytical thinking, business acumen, and a deep understanding of marketing and media ecosystems, particularly within the luxury industry.
 
-- **Master’s in Innovation Management, Communication & Data Science (IMCDS)** – Université Paris 1 Panthéon-Sorbonne (2024 - 2025)
-Studied Modules: Business Intelligence, Database Management, Web Analytics, Machine Learning
+---
 
-- **Master’s in Marketing & Digital Sales** – IAE Bretagne-Sud (2023 - 2024)*
-Studied Modules: Web Analytics, SEO & SEA, Web Development, Marketing Planning
+## 🎓 Education  
 
-- **Bachelor’s in Applied Foreign Languages (LEA)** – English & Spanish – Université Bordeaux-Montaigne (2020 - 2023)
-Studied Modules: International Marketing, Geopolitics, Economics, English, Spanish
+- **Master’s in Innovation Management, Communication & Data Science (IMCDS)** – Université Paris 1 Panthéon-Sorbonne (2024 - 2025)  
+  *Relevant Coursework: Business Intelligence, Database Management, Web Analytics, Machine Learning, Data Visualization*  
 
-- **Exchange Program** – Busan University of Foreign Studies (2022)
-Studied Modules: International Marketing, International Trade, Korean, Spanish, English
+- **Master’s in Marketing & Digital Sales** – IAE Bretagne-Sud (2023 - 2024)  
+  *Relevant Coursework: Web Analytics, SEO & SEA, Web Development, Marketing Planning*  
 
-## 💼 Professional Experience
+- **Bachelor’s in Applied Foreign Languages (LEA)** – English & Spanish – Université Bordeaux-Montaigne (2020 - 2023)  
+  *Relevant Coursework: International Marketing, Geopolitics, Economics*  
 
-**Media Data Analyst – Richemont** (2024 - 2025) (Paris, France)
-- Auditing and improving media data quality across Richemont Maisons.
-- Designing and managing advanced analytical dashboards on GA4, Looker, Looker Studio, and Funnel.io.
-- Consolidating and analyzing media & digital data (Google Analytics, advertising platforms, internal tools) to optimize campaign performance.
+- **Exchange Program** – Busan University of Foreign Studies (2022)  
+  *Relevant Coursework: International Marketing, International Trade, Korean, Spanish, English*  
 
-**Web Marketing Specialist – Éditions Larivière** (2023 - 2024) (Clichy, France)
-- Continuous optimization of content distribution strategies based on analytics and market trends.
-- Collaboration with cross-functional teams (writers, designers, developers) to ensure strategic alignment.
+---
 
-## 🔧 Skills
+## 💼 Professional Experience  
 
-**Data Analytics & Visualization**
-- Exploratory Data Analysis & Advanced Dashboards (Looker Studio, Looker, Power BI)
-- Data Quality Management & Strategic Monitoring (Funnel.io, Accutics, IAS)
-- Advanced Digital Campaign Analytics (Matomo, Similar Web, Google Ads, GA4, Google Tag Manager)
+### **Data & Analytics Consultant – EY** (2025 - Present) – Paris, France  
 
+**Client: LVMH Beauty Tech**  
+- Led the migration of media dashboards from Datorama to Power BI  
+- Centralized media data into Google Cloud Platform (GCP) via APIs  
+- Performed data validation and quality checks to ensure consistency between legacy (Datorama) and new (GCP) data sources  
+- Designed and developed Power BI dashboards for business stakeholders  
 
-**Technical & Marketing Tools**
-- Programming: SQL, Python, HTML/CSS
-- Digital Marketing: SEO/SEA, Social Media Ads (Google Ads, Facebook Ads, TikTok Ads, Amazon Advertising)
-- Big Data & Cloud Analytics: Google Cloud, New Search Ads 360, Campaign Manager 360
+**Run activities**  
+- Managed and resolved data and reporting issues on Datorama  
+- Ensured continuity and reliability of media reporting  
 
+**Client: SCPP (French Phonogram Producers’ Society)**  
+- Built a Power BI dashboard for the audit team to monitor phonogram tracking  
+- Improved audit processes through automated and structured data visualization  
 
-## 🌍 Languages
+---
+
+### **Media Data Analyst – Richemont** (2024 - 2025) – Paris, France  
+- Audited and improved media data quality across multiple Maisons  
+- Designed and managed dashboards on GA4, Looker, Looker Studio, and Funnel.io  
+- Analyzed media and digital performance data to optimize campaign effectiveness  
+
+---
+
+### **Web Marketing Assistant – Éditions Larivière** (2023 - 2024) – Clichy, France  
+- Optimized website performance and SEO strategy  
+- Collaborated with cross-functional teams to align digital strategy  
+
+---
+
+## 🔧 Skills  
+
+### Data Analytics & Visualization  
+- Exploratory Data Analysis & Dashboarding (Power BI, Looker, Looker Studio)  
+- Data Quality Management & Monitoring (Funnel.io, Accutics, IAS)  
+- Digital Campaign Analytics (GA4, Google Ads, SimilarWeb, Tag Manager)  
+
+### Technical Skills  
+- Programming: Python, SQL, R, HTML/CSS  
+- Cloud & Data: Google Cloud Platform (GCP), API integrations  
+- Data Visualization: Power BI, Matplotlib  
+
+### Digital Marketing Tools  
+- SEO/SEA, Social Media Ads (Google Ads, Meta Ads, TikTok Ads)  
+- Campaign Manager 360, Search Ads 360  
+
+---
+
+## 🌍 Languages  
 
 - **French** (native)  
-- **English** (fluent)
-- **Spanish** (Limited professional skills)
-- **Korean** (Basic knowledge)
+- **English** (fluent)  
+- **Spanish** (professional working proficiency)  
+- **Korean** (basic)  
 
-## 💡 Projects
+---
 
-Here, you can find some of my projects focusing on data science, digital marketing, and media analytics:
+## 💡 Projects  
 
-- Power BI Dashboard for Bicycle Sales Performance
-- E-Commerce Website Development
-- InDesign Magazine Design & Branding
+Here are some of my projects focused on **data science, digital marketing, and analytics**:
 
-Each project highlights different aspects of **marketing analytics, data visualization, and digital strategy,** with a focus on **practical application and problem-solving**.
+- Power BI Dashboard for Bicycle Sales Performance  
+- E-commerce Platform Development  
+- Magazine Design & Branding (InDesign)  
 
-## 🤝 Let's Connect!
+These projects showcase my ability to apply **data analysis, visualization, and digital strategy** to real-world use cases.
 
-I am always open to collaboration and new opportunities in the field of actuarial science.  
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/perrine-m-57874616a/) or explore my repositories here on GitHub to learn more about my work.
+---
+
+## 🤝 Let's Connect!  
+
+I am always open to new opportunities in **data analytics, consulting, and digital strategy**.  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/perrine-m-57874616a/  
+- 📊 Feel free to explore my repositories and projects here on GitHub!
