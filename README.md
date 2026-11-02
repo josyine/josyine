@@ -12,7 +12,7 @@ I am currently working as a **Data & AI Consultant at EY**, where I leverage my 
 - **Master’s in Marketing & Digital Sales** – IAE France (2023 - 2024)  
   *Relevant Coursework: Web Analytics, SEO & SEA, Web Development, Marketing Planning*  
 
-- **Bachelor’s in Applied Foreign Languages (LEA)** – English & Spanish – Université Bordeaux-Montaigne (2020 - 2023)  
+- **Bachelor’s in Economic & Marketing** – English & Spanish – Université Bordeaux-Montaigne (2020 - 2023)  
   *Relevant Coursework: International Marketing, Geopolitics, Economics*  
 
 - **Exchange Program** – Busan University of Foreign Studies (2022)  
